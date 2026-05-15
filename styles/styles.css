@@ -12,7 +12,7 @@ h1 {
 nav a {
   color: white;
   padding: 0%;
-  display: inline-block;
+  display: block;
 }
 
 main {
