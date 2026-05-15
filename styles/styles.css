@@ -6,10 +6,13 @@ nav {
 
 h1 {
   color: rgb(73, 72, 72);
+
 }
 
 nav a {
   color: white;
+  padding: 0%;
+  display: inline-block;
 }
 
 main {
